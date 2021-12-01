@@ -3,6 +3,10 @@
     <h1 class="display-4 shadow-lg p-3 mb-3 bg-white rounded" style="text-align:center">Payroll Managment System</h1>
 </div>
 </div>
+<h3>Kaushal Agrawal 20BIT0183</h3>
+<h3>Haneet Arya 20BIT0153</h3>
+<h3>Abhishek Raj - 20BIT0134</h3>
+<h3>Vansh Bajaj - 20BIT0132</h3>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     
